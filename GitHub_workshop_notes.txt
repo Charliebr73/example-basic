@@ -1,0 +1,18 @@
+git branch -m first_name different_name ( -m moves, used to change/correct names or move)
+
+git commit --amend (to correct commit messages. It opens VIM as text editor in Mac)
+
+git log master..HEAD
+
+git log master..HEAD --oneline
+
+
+git commit -am
+
+an alternative to git pull => fetch (gets a cached copy)
+
+coderwall
+
+git fetch --prune 
+
+git branch -d (or -D) <branch name>
